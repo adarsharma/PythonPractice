@@ -7,3 +7,6 @@ then Only we will see that If you are getting the things in Python by your own o
 
 so all the best
 
+Yo need to Update each and every Solution in different file under same task directory 
+
+
